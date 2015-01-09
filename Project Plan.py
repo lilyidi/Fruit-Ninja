@@ -11,17 +11,12 @@ Bananas: Spirit- No bombs appear for 5 secs
          Points- In 5 secs, all fruit sliced worth double
          Frenzy- For 5 secs, many fruits are thrown from the sides
          Freeze- For 5 secs, time slows down
-         
-Sound Effects: Strawberries- Lily screams "strawberry!"
-               Dragonfruits- Beedle's thing
-               Pomegranates- Mohan's thing??
-               Bananas- "Hey! Look!" (Zelda, Navi reference)
 
 Hall of Ninjas: List of all ninjas ever to save Sensei
 
 Arcade Rules: -No pomegranates, no dragonfruit
               -1 minute to score as much as possible
-              -Bananas availble
+              -Bananas available
               *No bonus at end of game!
               
 Classic Rules: -Pomegranate at end of each game
